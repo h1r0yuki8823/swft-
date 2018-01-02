@@ -12,6 +12,8 @@
 		2E6E5A0C1FF3C91B00F55213 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2E6E5A0A1FF3C91B00F55213 /* Main.storyboard */; };
 		2E6E5A0E1FF3C91B00F55213 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2E6E5A0D1FF3C91B00F55213 /* Assets.xcassets */; };
 		2E6E5A111FF3C91B00F55213 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2E6E5A0F1FF3C91B00F55213 /* LaunchScreen.storyboard */; };
+		2E6E5A1B1FFB3B5A00F55213 /* PercentViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E6E5A1A1FFB3B5A00F55213 /* PercentViewController.swift */; };
+		2E6E5A1D1FFB420800F55213 /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E6E5A1C1FFB420800F55213 /* ResultViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		2E6E5A0D1FF3C91B00F55213 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2E6E5A101FF3C91B00F55213 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2E6E5A121FF3C91B00F55213 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2E6E5A1A1FFB3B5A00F55213 /* PercentViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PercentViewController.swift; sourceTree = "<group>"; };
+		2E6E5A1C1FFB420800F55213 /* ResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +64,8 @@
 				2E6E5A0D1FF3C91B00F55213 /* Assets.xcassets */,
 				2E6E5A0F1FF3C91B00F55213 /* LaunchScreen.storyboard */,
 				2E6E5A121FF3C91B00F55213 /* Info.plist */,
+				2E6E5A1A1FFB3B5A00F55213 /* PercentViewController.swift */,
+				2E6E5A1C1FFB420800F55213 /* ResultViewController.swift */,
 			);
 			path = MyCalc;
 			sourceTree = "<group>";
@@ -138,6 +144,8 @@
 			files = (
 				2E6E5A091FF3C91B00F55213 /* ViewController.swift in Sources */,
 				2E6E5A071FF3C91B00F55213 /* AppDelegate.swift in Sources */,
+				2E6E5A1B1FFB3B5A00F55213 /* PercentViewController.swift in Sources */,
+				2E6E5A1D1FFB420800F55213 /* ResultViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
